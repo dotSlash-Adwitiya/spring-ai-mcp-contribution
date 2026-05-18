@@ -14,7 +14,7 @@ Bootstrap your AI applications with MCP support using link:https://start.spring.
 
 == MCP Java SDK Architecture
 
-TIP: This section provides an overview for the link:https://modelcontextprotocol.io/sdk/java/mcp-overview[MCP Java SDK architecture]. 
+TIP: This section provides an overview for the link:https://java.sdk.modelcontextprotocol.io/latest/[MCP Java SDK architecture]. 
 For the Spring AI MCP integration, refer to the xref:#_spring_ai_mcp_integration[Spring AI MCP Boot Starters] documentation.
 
 The Java MCP implementation follows a three-layer architecture that separates concerns for maintainability and flexibility:
